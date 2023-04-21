@@ -21,6 +21,7 @@
   </a>
   
 <br><br>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=micha-lieber&theme=onedark)](https://github.com/micha-lieber/github-profile-trophy)
+<br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=micha-lieber&show_icons=true&theme=synthwave)´
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micha-lieber&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
