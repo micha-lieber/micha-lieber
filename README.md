@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Michael, web developer (work in progress), based in Berlin.
+
 ### 🌱 I’m currently learning:
 <br>
 <a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
